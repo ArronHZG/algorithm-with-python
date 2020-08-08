@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="89a90aeb-9947-4e38-b137-387d7115ab77" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dEGYBVf7FZkHWd8ZRZP0zmj6q0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/leetcode/hard" />
+      <recent name="$PROJECT_DIR$/leetcode" />
+      <recent name="$PROJECT_DIR$/leetcode/array/double_pointer" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.baidu_2">
+    <configuration name="baidu" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baidu.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="baidu_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baidu_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for 153_findMin.Test" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode/binary_search" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;153_findMin.Test&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for 154_findMin.Test" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode/binary_search" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;154_findMin.Test&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for 540_singleNonDuplicate.Test" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode/binary_search" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;540_singleNonDuplicate.Test&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.baidu_2" />
+        <item itemvalue="Python.baidu" />
+        <item itemvalue="Python tests.Unittests for 540_singleNonDuplicate.Test" />
+        <item itemvalue="Python tests.Unittests for 154_findMin.Test" />
+        <item itemvalue="Python tests.Unittests for 153_findMin.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89a90aeb-9947-4e38-b137-387d7115ab77" name="Default Changelist" comment="" />
+      <created>1591982883387</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591982883387</updated>
+      <workItem from="1591982886086" duration="40851000" />
+      <workItem from="1592221721608" duration="59000" />
+      <workItem from="1592244584057" duration="5713000" />
+      <workItem from="1592296017416" duration="431000" />
+      <workItem from="1592296507734" duration="38546000" />
+      <workItem from="1592549753174" duration="9849000" />
+      <workItem from="1592752585568" duration="616000" />
+      <workItem from="1592753680933" duration="2292000" />
+      <workItem from="1594532814220" duration="1036000" />
+      <workItem from="1594626429702" duration="373000" />
+      <workItem from="1595757069480" duration="179000" />
+      <workItem from="1596004128310" duration="5367000" />
+      <workItem from="1596020163854" duration="1783000" />
+      <workItem from="1596264199987" duration="1381000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1732" y="600" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1592296096224">
+      <screen x="0" y="23" width="3008" height="1669" />
+    </state>
+    <state x="1732" y="600" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.3008.1669@0.23.3008.1669" timestamp="1592296096224" />
+    <state width="1750" height="441" key="GridCell.Tab.0.bottom" timestamp="1596026399427">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1750" height="441" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1596021772789" />
+    <state width="1215" height="466" key="GridCell.Tab.0.bottom/0.0.2560.1440/-1792.0.1792.1120@0.0.2560.1440" timestamp="1592755304010" />
+    <state width="1215" height="466" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1592930762554" />
+    <state width="1390" height="599" key="GridCell.Tab.0.bottom/0.0.3008.1692@0.0.3008.1692" timestamp="1592580527147" />
+    <state width="1750" height="441" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1596026399427" />
+    <state width="1784" height="598" key="GridCell.Tab.0.bottom/0.23.3008.1669@0.23.3008.1669" timestamp="1592475485333" />
+    <state width="1750" height="441" key="GridCell.Tab.0.center" timestamp="1596026399426">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1750" height="441" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1596021772788" />
+    <state width="1215" height="466" key="GridCell.Tab.0.center/0.0.2560.1440/-1792.0.1792.1120@0.0.2560.1440" timestamp="1592755304008" />
+    <state width="1215" height="466" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1592930762553" />
+    <state width="1390" height="599" key="GridCell.Tab.0.center/0.0.3008.1692@0.0.3008.1692" timestamp="1592580527147" />
+    <state width="1750" height="441" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1596026399426" />
+    <state width="1784" height="598" key="GridCell.Tab.0.center/0.23.3008.1669@0.23.3008.1669" timestamp="1592475485333" />
+    <state width="1750" height="441" key="GridCell.Tab.0.left" timestamp="1596026399426">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1750" height="441" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1596021772787" />
+    <state width="1215" height="466" key="GridCell.Tab.0.left/0.0.2560.1440/-1792.0.1792.1120@0.0.2560.1440" timestamp="1592755304008" />
+    <state width="1215" height="466" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1592930762552" />
+    <state width="1390" height="599" key="GridCell.Tab.0.left/0.0.3008.1692@0.0.3008.1692" timestamp="1592580527146" />
+    <state width="1750" height="441" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1596026399426" />
+    <state width="1784" height="598" key="GridCell.Tab.0.left/0.23.3008.1669@0.23.3008.1669" timestamp="1592475485333" />
+    <state width="1750" height="441" key="GridCell.Tab.0.right" timestamp="1596026399427">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1750" height="441" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1596021772788" />
+    <state width="1215" height="466" key="GridCell.Tab.0.right/0.0.2560.1440/-1792.0.1792.1120@0.0.2560.1440" timestamp="1592755304009" />
+    <state width="1215" height="466" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1592930762553" />
+    <state width="1390" height="599" key="GridCell.Tab.0.right/0.0.3008.1692@0.0.3008.1692" timestamp="1592580527147" />
+    <state width="1750" height="441" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1596026399427" />
+    <state width="1784" height="598" key="GridCell.Tab.0.right/0.23.3008.1669@0.23.3008.1669" timestamp="1592475485333" />
+    <state width="1390" height="599" key="GridCell.Tab.1.bottom" timestamp="1592580527149">
+      <screen x="0" y="0" width="3008" height="1692" />
+    </state>
+    <state width="1390" height="599" key="GridCell.Tab.1.bottom/0.0.3008.1692@0.0.3008.1692" timestamp="1592580527149" />
+    <state width="1462" height="582" key="GridCell.Tab.1.bottom/0.23.3008.1669@0.23.3008.1669" timestamp="1592402284518" />
+    <state width="1390" height="599" key="GridCell.Tab.1.center" timestamp="1592580527148">
+      <screen x="0" y="0" width="3008" height="1692" />
+    </state>
+    <state width="1390" height="599" key="GridCell.Tab.1.center/0.0.3008.1692@0.0.3008.1692" timestamp="1592580527148" />
+    <state width="1462" height="582" key="GridCell.Tab.1.center/0.23.3008.1669@0.23.3008.1669" timestamp="1592402284518" />
+    <state width="1390" height="599" key="GridCell.Tab.1.left" timestamp="1592580527148">
+      <screen x="0" y="0" width="3008" height="1692" />
+    </state>
+    <state width="1390" height="599" key="GridCell.Tab.1.left/0.0.3008.1692@0.0.3008.1692" timestamp="1592580527148" />
+    <state width="1462" height="582" key="GridCell.Tab.1.left/0.23.3008.1669@0.23.3008.1669" timestamp="1592402284518" />
+    <state width="1390" height="599" key="GridCell.Tab.1.right" timestamp="1592580527148">
+      <screen x="0" y="0" width="3008" height="1692" />
+    </state>
+    <state width="1390" height="599" key="GridCell.Tab.1.right/0.0.3008.1692@0.0.3008.1692" timestamp="1592580527148" />
+    <state width="1462" height="582" key="GridCell.Tab.1.right/0.23.3008.1669@0.23.3008.1669" timestamp="1592402284518" />
+    <state x="2067" y="782" key="ReplaceDuplicatesPrompt" timestamp="1592388097772">
+      <screen x="0" y="23" width="3008" height="1669" />
+    </state>
+    <state x="2067" y="782" key="ReplaceDuplicatesPrompt/0.23.3008.1669@0.23.3008.1669" timestamp="1592388097772" />
+    <state x="991" y="577" key="com.intellij.ide.util.TipDialog" timestamp="1596264331957">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="694" y="449" key="com.intellij.ide.util.TipDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1596004130134" />
+    <state x="991" y="577" key="com.intellij.ide.util.TipDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1596264331957" />
+    <state x="1164" y="678" key="com.intellij.ide.util.TipDialog/0.0.3008.1692@0.0.3008.1692" timestamp="1592549755913" />
+    <state x="991" y="591" key="com.intellij.ide.util.TipDialog/0.23.2560.1417/-1792.23.1792.1097@0.23.2560.1417" timestamp="1592753682872" />
+    <state x="1132" y="82" key="com.intellij.ide.util.TipDialog/0.23.3008.1669@0.23.3008.1669" timestamp="1592296023802" />
+    <state x="2755" y="73" key="com.intellij.ide.util.TipDialog/1792.23.2560.1417/0.23.1792.1097@1792.23.2560.1417" timestamp="1592221797385" />
+    <state x="1272" y="1229" width="464" height="418" key="dock-window-1" timestamp="1592399705112">
+      <screen x="0" y="23" width="3008" height="1669" />
+    </state>
+    <state x="1272" y="1229" width="464" height="418" key="dock-window-1/0.23.3008.1669@0.23.3008.1669" timestamp="1592399705112" />
+    <state x="2611" y="1146" width="459" height="294" key="dock-window-1/1792.23.2560.1417/0.23.1792.1097@1792.23.2560.1417" timestamp="1592221799745" />
+    <state x="1774" y="1251" width="480" height="350" key="dock-window-2" timestamp="1592467836290">
+      <screen x="0" y="23" width="3008" height="1669" />
+    </state>
+    <state x="558" y="679" width="480" height="350" key="dock-window-2/0.0.1792.1120@0.0.1792.1120" timestamp="1592428946505" />
+    <state x="1774" y="1251" width="480" height="350" key="dock-window-2/0.23.3008.1669@0.23.3008.1669" timestamp="1592467836290" />
+    <state x="1088" y="267" width="703" height="586" key="find.popup" timestamp="1594610709786">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="1088" y="267" width="703" height="586" key="find.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1594610709786" />
+    <state x="1827" y="421" width="858" height="873" key="find.popup/0.23.3008.1669@0.23.3008.1669" timestamp="1592472847081" />
+    <state x="1150" y="260" width="400" height="455" key="search.everywhere.popup" timestamp="1596004465600">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="1150" y="260" width="400" height="455" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1596004465600" />
+    <state x="1931" y="393" width="670" height="686" key="search.everywhere.popup/0.0.3008.1692@0.0.3008.1692" timestamp="1592551789188" />
+    <state x="1931" y="411" width="670" height="676" key="search.everywhere.popup/0.23.3008.1669@0.23.3008.1669" timestamp="1592387270501" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/BFS/1091_shortestPathBinaryMatrix.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/BFS/279_numSquares.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_744_nextGreatestLetter_Test.coverage" NAME="Unittests for 744_nextGreatestLetter.Test Coverage Results" MODIFIED="1592064900442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/binary_search" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_303_sumRange_Test.coverage" NAME="Unittests for 303_sumRange.Test Coverage Results" MODIFIED="1592403428443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/dynamicProgramming" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_279_numSquares_Test.coverage" NAME="Unittests for 279_numSquares.Test Coverage Results" MODIFIED="1592556396771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/BFS" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_605_canPlaceFlowers_Test.coverage" NAME="Unittests for 605_canPlaceFlowers.Test Coverage Results" MODIFIED="1592053262736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/greedy" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_455_findContentChildren_Test_test_one.coverage" NAME="Unittests for 455_findContentChildren.Test.test_one Coverage Results" MODIFIED="1592046046562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/greedy" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_26_twoSum_Test.coverage" NAME="Unittests for 26_twoSum.Test Coverage Results" MODIFIED="1591983992818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/array" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_88_merge_Test.coverage" NAME="Unittests for 88_merge.Test Coverage Results" MODIFIED="1591986778342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/double_pointer" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_215_findKthLargest_Test_test_one.coverage" NAME="Unittests for 215_findKthLargest.Test.test_one Coverage Results" MODIFIED="1592042490220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/sort" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_154_findMin_Test_test_eight.coverage" NAME="Unittests for 154_findMin.Test.test_eight Coverage Results" MODIFIED="1592140200694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/binary_search" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_in_465_minTransfers_py.coverage" NAME="Unittests in 465_minTransfers.py Coverage Results" MODIFIED="1592472858171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hard" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_42_trap_Test_test_one.coverage" NAME="Unittests for 42_trap.Test.test_one Coverage Results" MODIFIED="1592077293672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/double_pointer" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_1091_shortestPathBinaryMatrix_MyTestCase_test_something.coverage" NAME="Unittests for 1091_shortestPathBinaryMatrix.MyTestCase.test_something Coverage Results" MODIFIED="1592553391473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/BFS" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_279_numSquares_Test_test_one.coverage" NAME="Unittests for 279_numSquares.Test.test_one Coverage Results" MODIFIED="1592554898392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/BFS" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_1091_shortestPathBinaryMatrix_MyTestCase.coverage" NAME="Unittests for 1091_shortestPathBinaryMatrix.MyTestCase Coverage Results" MODIFIED="1592554120047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/BFS" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_763_partitionLabels_Test.coverage" NAME="Unittests for 763_partitionLabels.Test Coverage Results" MODIFIED="1596006853378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/greedy" />
+    <SUITE FILE_PATH="coverage/Algorithm$baidu_2.coverage" NAME="baidu_2 Coverage Results" MODIFIED="1596021772778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_204_countPrimes_Test_test_two.coverage" NAME="Unittests for 204_countPrimes.Test.test_two Coverage Results" MODIFIED="1592152364292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/mah" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_726_countOfAtoms_Test_test_one.coverage" NAME="Unittests for 726_countOfAtoms.Test.test_one Coverage Results" MODIFIED="1592388680041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/stack_" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_343_integerBreak_Test.coverage" NAME="Unittests for 343_integerBreak.Test Coverage Results" MODIFIED="1592418560357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/dynamicProgramming" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_154_findMin_Test_test_one.coverage" NAME="Unittests for 154_findMin.Test.test_one Coverage Results" MODIFIED="1592140179133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/binary_search" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_33_search_Test.coverage" NAME="Unittests for 33_search.Test Coverage Results" MODIFIED="1596007377314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/binary_search" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_440_findKthNumber_Test.coverage" NAME="Unittests for 440_findKthNumber.Test Coverage Results" MODIFIED="1592384625919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/mah" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_in_42_trap_py.coverage" NAME="Unittests in 42_trap.py Coverage Results" MODIFIED="1592072091386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/double_pointer" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_121_maxProfit_Test.coverage" NAME="Unittests for 121_maxProfit.Test Coverage Results" MODIFIED="1596006760067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/greedy" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_727_minWindow_Test_test_two.coverage" NAME="Unittests for 727_minWindow.Test.test_two Coverage Results" MODIFIED="1592335258487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/dynamicProgramming" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_75_sortColors_Test_test_one.coverage" NAME="Unittests for 75_sortColors.Test.test_one Coverage Results" MODIFIED="1592044830493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/sort" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_347_topKFrequent_Test.coverage" NAME="Unittests for 347_topKFrequent.Test Coverage Results" MODIFIED="1592042844413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/sort" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_33_search_Test_test_three.coverage" NAME="Unittests for 33_search.Test.test_three Coverage Results" MODIFIED="1592149439150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/binary_search" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_3_findMinArrowShots_Test.coverage" NAME="Unittests for 3_findMinArrowShots.Test Coverage Results" MODIFIED="1592050722807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/greedy" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_524_findLongestWord_Test.coverage" NAME="Unittests for 524_findLongestWord.Test Coverage Results" MODIFIED="1592040609885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/double_pointer" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_154_findMin_Test_test_three.coverage" NAME="Unittests for 154_findMin.Test.test_three Coverage Results" MODIFIED="1592140183043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/binary_search" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_in_26_twoSum_py.coverage" NAME="Unittests in 26_twoSum.py Coverage Results" MODIFIED="1591983347510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/array" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_62_uniquePaths_Test.coverage" NAME="Unittests for 62_uniquePaths.Test Coverage Results" MODIFIED="1592403346690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/dynamicProgramming" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_452_findMinArrowShots_Test.coverage" NAME="Unittests for 452_findMinArrowShots.Test Coverage Results" MODIFIED="1596006157348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/greedy" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_154_findMin_Test_test_seven.coverage" NAME="Unittests for 154_findMin.Test.test_seven Coverage Results" MODIFIED="1592140199445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/binary_search" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_413_numberOfArithmeticSlices_Test.coverage" NAME="Unittests for 413_numberOfArithmeticSlices.Test Coverage Results" MODIFIED="1592416676994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/dynamicProgramming" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_744_nextGreatestLetter_Test_test_two.coverage" NAME="Unittests for 744_nextGreatestLetter.Test.test_two Coverage Results" MODIFIED="1592064863912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/binary_search" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_34_searchRange_Test.coverage" NAME="Unittests for 34_searchRange.Test Coverage Results" MODIFIED="1596007414403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/binary_search" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_75_sortColors_Test.coverage" NAME="Unittests for 75_sortColors.Test Coverage Results" MODIFIED="1596004421448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/sort" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_25_reverseKGroup_Test.coverage" NAME="Unittests for 25_reverseKGroup.Test Coverage Results" MODIFIED="1592246556537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/link_list" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_88_merge_Test_test_two.coverage" NAME="Unittests for 88_merge.Test.test_two Coverage Results" MODIFIED="1591986590948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/double_pointer" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_455_findContentChildren_Test.coverage" NAME="Unittests for 455_findContentChildren.Test Coverage Results" MODIFIED="1596006677165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/greedy" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_42_trap_Test.coverage" NAME="Unittests for 42_trap.Test Coverage Results" MODIFIED="1592077225634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/double_pointer" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_726_countOfAtoms_Solution_Test.coverage" NAME="Unittests for 726_countOfAtoms.Solution.Test Coverage Results" MODIFIED="1592388544603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/stack_" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_in_64_minPathSum_py.coverage" NAME="Unittests in 64_minPathSum.py Coverage Results" MODIFIED="1592401982648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/dynamicProgramming" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_154_findMin_Test_test_four.coverage" NAME="Unittests for 154_findMin.Test.test_four Coverage Results" MODIFIED="1592140184812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/binary_search" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_465_minTransfers_Test.coverage" NAME="Unittests for 465_minTransfers.Test Coverage Results" MODIFIED="1592475485328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hard" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_451_frequencySort_Test.coverage" NAME="Unittests for 451_frequencySort.Test Coverage Results" MODIFIED="1596005017638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/sort" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_154_findMin_Test_test_two.coverage" NAME="Unittests for 154_findMin.Test.test_two Coverage Results" MODIFIED="1592140180627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/binary_search" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_122_maxProfit_Test.coverage" NAME="Unittests for 122_maxProfit.Test Coverage Results" MODIFIED="1592052549922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/greedy" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_126_frequencySort_Test_test_one.coverage" NAME="Unittests for 126_frequencySort.Test.test_one Coverage Results" MODIFIED="1596004459795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/sort" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_26_twoSum_Test_test_one.coverage" NAME="Unittests for 26_twoSum.Test.test_one Coverage Results" MODIFIED="1596004216218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/double_pointer" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_727_minWindow_Test_test_one.coverage" NAME="Unittests for 727_minWindow.Test.test_one Coverage Results" MODIFIED="1592334378942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/dynamicProgramming" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_154_findMin_Test_test_five.coverage" NAME="Unittests for 154_findMin.Test.test_five Coverage Results" MODIFIED="1592140187999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/binary_search" />
+    <SUITE FILE_PATH="coverage/Algorithm$down.coverage" NAME="down Coverage Results" MODIFIED="1594626695977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_440_findKthNumber_Test_test_one.coverage" NAME="Unittests for 440_findKthNumber.Test.test_one Coverage Results" MODIFIED="1592381201795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/mah" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_278_firstBadVersion_Test.coverage" NAME="Unittests for 278_firstBadVersion.Test Coverage Results" MODIFIED="1592137648512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/binary_search" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_69_mySqrt_Test.coverage" NAME="Unittests for 69_mySqrt.Test Coverage Results" MODIFIED="1596007426360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/binary_search" />
+    <SUITE FILE_PATH="coverage/Algorithm$tree_node.coverage" NAME="tree_node Coverage Results" MODIFIED="1591986979723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_406_reconstructQueue_Test.coverage" NAME="Unittests for 406_reconstructQueue.Test Coverage Results" MODIFIED="1592051753725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/greedy" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_153_findMin_Test_test_two.coverage" NAME="Unittests for 153_findMin.Test.test_two Coverage Results" MODIFIED="1592138642140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/binary_search" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_540_singleNonDuplicate_Test.coverage" NAME="Unittests for 540_singleNonDuplicate.Test Coverage Results" MODIFIED="1596007496663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/binary_search" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_3_findMinArrowShots_Test_test_one.coverage" NAME="Unittests for 3_findMinArrowShots.Test.test_one Coverage Results" MODIFIED="1592050775844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/greedy" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_540_singleNonDuplicate_Test_test_four.coverage" NAME="Unittests for 540_singleNonDuplicate.Test.test_four Coverage Results" MODIFIED="1592065836120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/binary_search" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_nextGreaterElements_Test.coverage" NAME="Unittests for nextGreaterElements.Test Coverage Results" MODIFIED="1592425989627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
+    <SUITE FILE_PATH="coverage/Algorithm$baidu.coverage" NAME="baidu Coverage Results" MODIFIED="1596016775652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_69_mySqrt_Test_test_one.coverage" NAME="Unittests for 69_mySqrt.Test.test_one Coverage Results" MODIFIED="1592063757113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/binary_search" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_504_convertToBase7_Test.coverage" NAME="Unittests for 504_convertToBase7.Test Coverage Results" MODIFIED="1592153291146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/mah" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_25_reverseKGroup_Test_test_one.coverage" NAME="Unittests for 25_reverseKGroup.Test.test_one Coverage Results" MODIFIED="1592244818057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/link_list" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_727_minWindow_Test.coverage" NAME="Unittests for 727_minWindow.Test Coverage Results" MODIFIED="1592335237975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/dynamicProgramming" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_64_minPathSum_Test.coverage" NAME="Unittests for 64_minPathSum.Test Coverage Results" MODIFIED="1592402362571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/dynamicProgramming" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_200_numIslands_Test.coverage" NAME="Unittests for 200_numIslands.Test Coverage Results" MODIFIED="1592574696265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/DFS" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_154_findMin_Test_test_six.coverage" NAME="Unittests for 154_findMin.Test.test_six Coverage Results" MODIFIED="1592140189948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/binary_search" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_204_countPrimes_Test_test_one.coverage" NAME="Unittests for 204_countPrimes.Test.test_one Coverage Results" MODIFIED="1592152059499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/mah" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_42_trap_Test_test_two.coverage" NAME="Unittests for 42_trap.Test.test_two Coverage Results" MODIFIED="1592077241989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/double_pointer" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_198_rob_Test.coverage" NAME="Unittests for 198_rob.Test Coverage Results" MODIFIED="1592400823673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/dynamicProgramming" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_680_validPalindrome_Test.coverage" NAME="Unittests for 680_validPalindrome.Test Coverage Results" MODIFIED="1591985438260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/double_pointer" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_524_findLongestWord_Test_test_two.coverage" NAME="Unittests for 524_findLongestWord.Test.test_two Coverage Results" MODIFIED="1592041581318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/double_pointer" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_347_topKFrequent_Test_test_one.coverage" NAME="Unittests for 347_topKFrequent.Test.test_one Coverage Results" MODIFIED="1592042904090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/sort" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_154_findMin_Test.coverage" NAME="Unittests for 154_findMin.Test Coverage Results" MODIFIED="1596007468221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/binary_search" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_33_search_Test_test_two.coverage" NAME="Unittests for 33_search.Test.test_two Coverage Results" MODIFIED="1592149437200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/binary_search" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_23_mergeKLists_Test_test_one.coverage" NAME="Unittests for 23_mergeKLists.Test.test_one Coverage Results" MODIFIED="1592249065290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/link_list" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_23_mergeKLists_Test.coverage" NAME="Unittests for 23_mergeKLists.Test Coverage Results" MODIFIED="1592250010816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/link_list" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_153_findMin_Test_test_one.coverage" NAME="Unittests for 153_findMin.Test.test_one Coverage Results" MODIFIED="1592138574589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/binary_search" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_in_127_ladderLength_py.coverage" NAME="Unittests in 127_ladderLength.py Coverage Results" MODIFIED="1592557114591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/BFS" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_540_singleNonDuplicate_Test_test_one1.coverage" NAME="Unittests for 540_singleNonDuplicate.Test.test_one1 Coverage Results" MODIFIED="1592068203790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/binary_search" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_153_findMin_Test_test_three.coverage" NAME="Unittests for 153_findMin.Test.test_three Coverage Results" MODIFIED="1592138966051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/binary_search" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_33_search_Test_test_one.coverage" NAME="Unittests for 33_search.Test.test_one Coverage Results" MODIFIED="1592149553706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/binary_search" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_153_findMin_Test.coverage" NAME="Unittests for 153_findMin.Test Coverage Results" MODIFIED="1596007436294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/binary_search" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_547_findCircleNum_Test.coverage" NAME="Unittests for 547_findCircleNum.Test Coverage Results" MODIFIED="1592755005409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/DFS" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_64_minPathSum_Test_test_one.coverage" NAME="Unittests for 64_minPathSum.Test.test_one Coverage Results" MODIFIED="1592402062249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/dynamicProgramming" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_204_countPrimes_Test.coverage" NAME="Unittests for 204_countPrimes.Test Coverage Results" MODIFIED="1592152022608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/mah" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_726_countOfAtoms_Solution_Test_test_one.coverage" NAME="Unittests for 726_countOfAtoms.Solution.Test.test_one Coverage Results" MODIFIED="1592388652369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/stack_" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_88_merge_Test_test_one.coverage" NAME="Unittests for 88_merge.Test.test_one Coverage Results" MODIFIED="1596004234447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/double_pointer" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_695_maxAreaOFIsland_Test.coverage" NAME="Unittests for 695_maxAreaOFIsland.Test Coverage Results" MODIFIED="1592573822313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/DFS" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_547_findCircleNum_Test_test_two.coverage" NAME="Unittests for 547_findCircleNum.Test.test_two Coverage Results" MODIFIED="1592755213350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/DFS" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_135_candy_Test.coverage" NAME="Unittests for 135_candy.Test Coverage Results" MODIFIED="1592384836139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/greedy" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_126_frequencySort_Test.coverage" NAME="Unittests for 126_frequencySort.Test Coverage Results" MODIFIED="1596004453175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/sort" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_540_singleNonDuplicate_Test_test_three.coverage" NAME="Unittests for 540_singleNonDuplicate.Test.test_three Coverage Results" MODIFIED="1592065942833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/binary_search" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_42_trap_Test_test_three.coverage" NAME="Unittests for 42_trap.Test.test_three Coverage Results" MODIFIED="1592077300002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/double_pointer" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_406_reconstructQueue_Test_test_one.coverage" NAME="Unittests for 406_reconstructQueue.Test.test_one Coverage Results" MODIFIED="1596006695915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/greedy" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_2_eraseOverlapIntervals_Test.coverage" NAME="Unittests for 2_eraseOverlapIntervals.Test Coverage Results" MODIFIED="1596005720427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/greedy" />
+    <SUITE FILE_PATH="coverage/Algorithm$link_list.coverage" NAME="link_list Coverage Results" MODIFIED="1591986913501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_726_countOfAtoms_Test.coverage" NAME="Unittests for 726_countOfAtoms.Test Coverage Results" MODIFIED="1592389308667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/stack_" />
+    <SUITE FILE_PATH="coverage/Algorithm$Unittests_for_524_findLongestWord_Test_test_one.coverage" NAME="Unittests for 524_findLongestWord.Test.test_one Coverage Results" MODIFIED="1596004259204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/double_pointer" />
+  </component>
+</project>
