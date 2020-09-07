@@ -2,9 +2,11 @@ import math
 import unittest
 from functools import lru_cache
 from typing import List, Tuple
+
 """
 hard
 """
+
 
 class SolutionOne:
     """
@@ -144,7 +146,7 @@ class Solution:
     def minimumMoves(self, arr: List[int]) -> int:
         n = len(arr)
 
-        @lru_cache(maxsize=12800)
+        @lru_cache(maxsize=None)
         def dp(left, right):
             if left > right:
                 return 0
