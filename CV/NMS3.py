@@ -1,7 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-
 # 给出 左下和右上的顶点, x1,y1,x2,y2
 boxes = np.array([[100, 100, 210, 210],
                   [250, 250, 420, 420],
@@ -27,14 +26,14 @@ ious [1.]
 
 def IOU(index, order, boxes, area):
     # 选取 x1 , y1 中 较大的点
-    min_x1_y1 = np.maximum(boxes[order[index], :2], boxes[order[index + 1:], :2])
+    min_x1_y1 = np.maximum(boxes[index, :2], boxes[order, :2])
     # 选取 x2 , y2 中 较小的点
-    max_x2_y2 = np.minimum(boxes[order[index], 2:], boxes[order[index + 1:], 2:])
+    max_x2_y2 = np.minimum(boxes[index, 2:], boxes[order, 2:])
     # 如果 x1,y1 < x2, y2 则表示相交, mask 为true, 否则为false
     mask = np.all(max_x2_y2 > min_x1_y1, axis=1)
     inter_area = np.prod(max_x2_y2 - min_x1_y1, axis=1) * mask
     # iou 计算公式
-    iou = inter_area / (area[order[index + 1:]] + area[order[index]] - inter_area)
+    iou = inter_area / (area[index] + area[order] - inter_area)
     return iou
 
 
@@ -46,14 +45,13 @@ def nums(boxes, scores, threshold=0.7):
     keep = []
     while order.size > 0:
         keep.append(order[0])
+        order = order[1:]
         # 如果iou大于阈值, 则去掉对应框, 如果小于等于阈值, 则保留进行下一次处理
-        iou = IOU(0, order, boxes, areas)
-        print(iou)
-        # 在order[1:]中, 可以保留下的index
+        iou = IOU(keep[-1], order, boxes, areas)
+        # 在order中, 可以保留下的index
         save_order_idx = np.where(iou <= threshold)[0]
-        # 保留下的order,
-        order = order[save_order_idx + 1]
-        print(order)
+        # 保留下的order
+        order = order[save_order_idx]
     return keep
 
 
