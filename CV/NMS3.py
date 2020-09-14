@@ -65,12 +65,10 @@ def plot_bbox(dets, c='k'):
     plt.plot([x1, x1], [y1, y2], c)
     plt.plot([x1, x2], [y2, y2], c)
     plt.plot([x2, x2], [y1, y2], c)
-    plt.title("after nms")
 
 
 plot_bbox(boxes, 'k')  # before nms
 plt.show()
 keep = nums(boxes, scores)
-print(keep)
 plot_bbox(boxes[keep], 'r')  # after nms
 plt.show()
